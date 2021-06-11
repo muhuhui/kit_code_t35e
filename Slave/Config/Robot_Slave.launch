@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="slave_pkg" type="ORSlave" name="RobotSlave" output="screen">
+    </node>
+</launch>

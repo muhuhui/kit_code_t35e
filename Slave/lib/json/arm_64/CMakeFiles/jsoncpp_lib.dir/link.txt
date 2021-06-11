@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -Wall -Wshadow -Wextra -pedantic -Wno-long-long -Werror=strict-aliasing -g  -shared -Wl,-soname,libjsoncpp.so.0 -o libjsoncpp.so.0.10.7 CMakeFiles/jsoncpp_lib.dir/json_reader.cpp.o CMakeFiles/jsoncpp_lib.dir/json_value.cpp.o CMakeFiles/jsoncpp_lib.dir/json_writer.cpp.o 

@@ -1,0 +1,136 @@
+{
+   "ChargingPilesPosition" : {
+      "Position0" : 725.0
+   },
+   "IndustrialCameraIp" : "192.168.10.77",
+   "IndustrialCameraPort" : 8000,
+   "PhotoRootPath" : "/home/tetraelc/workspace/photos",
+   "RS232Baud" : 9600,
+   "RS232DataBit" : 8,
+   "RS232Device" : "/dev/ttyS3",
+   "RS232Parity" : 0,
+   "RS232StopBit" : 1,
+   "RS485Baud" : 9600,
+   "RS485DataBit" : 8,
+   "RS485Device" : "/dev/ttyS1",
+   "RS485Parity" : 0,
+   "RS485StopBit" : 1,
+   "RobotId" : 0,
+   "RosHostUrl" : "192.168.10.33",
+   "RosMasterUrl" : "http://192.168.10.33:11311",
+   "ThermalImagerIp" : "192.168.10.76",
+   "ThermalImagerPort" : 8000,
+   "VideoRootPath" : "/home/tetraelc/workspace/videos",
+   "taskList" : [
+      {
+         "EndTime" : 46655,
+         "RobotId" : 0,
+         "Speedl" : 0.20000000298023224,
+         "StartTime" : 40535,
+         "Status" : 0,
+         "TaskId" : 136,
+         "pointList" : [
+            {
+               "CameraFocus" : 8,
+               "PointId" : 186,
+               "Position" : 0.0,
+               "PresetNumber" : 8,
+               "TaskId" : 136,
+               "ThermalFocus" : 1
+            },
+            {
+               "CameraFocus" : 9,
+               "PointId" : 189,
+               "Position" : 100.0,
+               "PresetNumber" : 9,
+               "TaskId" : 136,
+               "ThermalFocus" : 1
+            },
+            {
+               "CameraFocus" : 10,
+               "PointId" : 190,
+               "Position" : 200.0,
+               "PresetNumber" : 10,
+               "TaskId" : 136,
+               "ThermalFocus" : 2
+            },
+            {
+               "CameraFocus" : 11,
+               "PointId" : 191,
+               "Position" : 300.0,
+               "PresetNumber" : 11,
+               "TaskId" : 136,
+               "ThermalFocus" : 1
+            }
+         ]
+      },
+      {
+         "EndTime" : 45190,
+         "RobotId" : 0,
+         "Speedl" : 0.20000000298023224,
+         "StartTime" : 44290,
+         "Status" : 0,
+         "TaskId" : 137,
+         "pointList" : [
+            {
+               "CameraFocus" : 3,
+               "PointId" : 192,
+               "Position" : 1.0,
+               "PresetNumber" : 3,
+               "TaskId" : 137,
+               "ThermalFocus" : 1
+            },
+            {
+               "CameraFocus" : 4,
+               "PointId" : 193,
+               "Position" : 120.0,
+               "PresetNumber" : 4,
+               "TaskId" : 137,
+               "ThermalFocus" : 1
+            },
+            {
+               "CameraFocus" : 5,
+               "PointId" : 194,
+               "Position" : 260.0,
+               "PresetNumber" : 5,
+               "TaskId" : 137,
+               "ThermalFocus" : 1
+            },
+            {
+               "CameraFocus" : 6,
+               "PointId" : 195,
+               "Position" : 400.0,
+               "PresetNumber" : 6,
+               "TaskId" : 137,
+               "ThermalFocus" : 1
+            }
+         ]
+      },
+      {
+         "EndTime" : 38389,
+         "RobotId" : 0,
+         "Speedl" : 0.20000000298023224,
+         "StartTime" : 38389,
+         "Status" : 0,
+         "TaskId" : 169,
+         "pointList" : [
+            {
+               "CameraFocus" : 7,
+               "PointId" : 212,
+               "Position" : 0.0,
+               "PresetNumber" : 7,
+               "TaskId" : 169,
+               "ThermalFocus" : 1
+            },
+            {
+               "CameraFocus" : 12,
+               "PointId" : 213,
+               "Position" : 0.0,
+               "PresetNumber" : 12,
+               "TaskId" : 169,
+               "ThermalFocus" : 1
+            }
+         ]
+      }
+   ]
+}
